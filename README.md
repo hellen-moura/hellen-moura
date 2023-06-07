@@ -1,6 +1,3 @@
-## ## Olá pessoal, sejam bem vindos ao meu GitHub 👋
-Meu nome é Hellen e eu sou estudante de programação e tecnologia.
-
 
 ## Linguagens e Tecnologias:
  <br>
