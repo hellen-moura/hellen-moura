@@ -15,6 +15,20 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellen-moura&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<table>
+  <tr>
+    <td>
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=hellen-moura&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+      </td>
+    <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamehellen-moura&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+  </td>
+    <td>
+<br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=g648&theme=dark&hide_border=false" alt="Github stats" />
+ </td>
+  </tr>
+</table><br/>
 
 <div align="center"> 
 <a href="https://instagram.com/silvalhellen?igshid=MWs5Z3BkdnE4bGtzbQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
