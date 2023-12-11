@@ -52,5 +52,11 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hellen-moura}/count.svg" /></p> 
 <br>
 </div>
-
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/{hellen-moura}/count.svg" />  
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
