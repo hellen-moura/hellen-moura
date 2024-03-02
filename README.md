@@ -1,16 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<h1 align='center'> Hello, my name is Hellen </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Hellen+Moura;I'm+21+years+old;I'm+from+Brazil;I+Graduated+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h3 align='center'>I'm looking for my first opportunity in IT and I'm<br>
+sharing my learnings on Medium</h3>
+<br>
+<p align='center'>
+  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellen-moura&layout=compact&theme=radical&langs_count=8">
+  
+</p>
+<br>
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/hellen-silva-/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hellen-moura&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</p>
+                                                                                                                         
+<details>   
+<summary>📃 English version </summary>
+<br>
+  
+## Formação
 
+- 📖 **Software Engineering**\
+📆 202@ - 202@\
+📍 **...** - São Paulo, Brasil
+                                                                                                                                     
+- 📖 **Data Science**\
+📆 202! - 202!\
+📍 **...** - São Paulo, Brasil                                                                                                                                   
+                                                                                                                                     
+- 📖 **Mechatronics Technician**\
+📆 2022 - 2024\
+📍 **Senai Anchieta** - São Paulo, Brasil
+                                                                                                                                     
 
+</details>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellen-moura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellen-moura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -34,4 +65,3 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/{hellen-moura}/count.svg" />  
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
